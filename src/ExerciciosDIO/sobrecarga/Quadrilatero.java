@@ -1,4 +1,4 @@
-package ExerciciosDIO.exercicios_sobrecarga;
+package ExerciciosDIO.sobrecarga;
 
 public class Quadrilatero {
 
