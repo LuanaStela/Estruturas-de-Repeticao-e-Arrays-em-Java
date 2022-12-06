@@ -15,13 +15,13 @@ public class Desafio1 {
 
 
         if (soma < 25) {
-            System.out.println("Jovens!");
+            System.out.println("Jovem!");
         } else
             if (soma > 26 && soma < 60) {
                 System.out.println("Adultos!");
             
         } else {
-                System.out.println("Idoso!");
+                System.out.println("Idosa!");
             }
     }
 }
